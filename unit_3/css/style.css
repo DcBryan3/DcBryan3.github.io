@@ -18,6 +18,10 @@ p {
 	text-align: center;
 	font-weight: 900;
 }
+ul {
+	text-align: center;
+	list-style-type: none;
+}
 
 #first {
 	color: #0059b3;
